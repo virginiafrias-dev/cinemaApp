@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Miss Congeniality",
+    "genre": "comedy",
+    "duration": "109min",
+    "director": "Donald Petrie"
+  },
+  {
+    "name": "Carol",
+    "genre": "romance",
+    "duration": "118 min",
+    "director": "Todd Haynes"
+  }
+]
